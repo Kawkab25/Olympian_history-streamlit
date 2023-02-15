@@ -10,7 +10,7 @@ import numpy as np
 import streamlit as st
 import seaborn as sns
 import matplotlib.pyplot as plt
-import pycountry as pc
+
 
 st.set_page_config(layout='wide')
 
